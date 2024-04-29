@@ -1,0 +1,1 @@
+**Crea un hook personalizzato useCounter che tiene traccia dello stato di un contatore e restituisce il valore corrente del contatore insieme a tre funzioni per incrementare, decrementare e azzerare il contatore.**

@@ -1,0 +1,33 @@
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.card-profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 33.33333%;
+  text-align: center;
+  background: #384358;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.card-profile h1 {
+  background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.382) 0%,
+      rgba(0, 0, 0, 0.723) 100%
+    ),
+    url(../coding-profile-img.jpg) no-repeat center center;
+  width: 100%;
+  margin: 0;
+}
+
+.img-container img {
+  width: 100%;
+}
